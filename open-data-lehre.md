@@ -78,6 +78,8 @@ comment:  Workshop Open Data in der Hochschullehre einsetzen - Didaktische Aspek
 >- Welche Erfahrungen in Bezug auf Open Data bringen Sie mit?
 >- Haben Sie bereits mit Open Data in der Lehre gearbeitet?
 
+<div style="page-break-after: always;"></div>
+
 # Open Data als didaktische Ressource
 
       {{0-1}}
@@ -127,6 +129,8 @@ comment:  Workshop Open Data in der Hochschullehre einsetzen - Didaktische Aspek
 >- Durch die Arbeit mit offenen Daten kann ein breites Spektrum an Fähigkeiten, Fertigkeiten und Eigenschaften, die Studierende im Hochschulbereich entwickeln sollten aufgebaut werden.
 
 ***************
+
+<div style="page-break-after: always;"></div>
 
 ## Datenkompetenz
 
@@ -260,6 +264,8 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 
 > **Beispielsweise**: Entwicklung einer interaktiven Webkarte zur Geschichte der Kieler Stadtbäume.
 
+<div style="page-break-after: always;"></div>
+
 ## Herausforderungen
 
 > **Welche Hindernisse oder Herausforderungen bei Einsatz von Open Data in der Lehre sehen Sie?**
@@ -306,6 +312,8 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 
 <!-- style="font-size: 26px;" -->
 **Open Data kann ein echter Schatz für die Lehre sein!**
+
+<div style="page-break-after: always;"></div>
 
 # Hilfreiche Ressourcen
 
