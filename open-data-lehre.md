@@ -268,8 +268,6 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 
 ## Herausforderungen
 
-> **Welche Hindernisse oder Herausforderungen bei Einsatz von Open Data in der Lehre sehen Sie?**
-
 | Bereich                    | Herausforderung                                                  | Mögliche Lösungsansätze                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Didaktik**               | Studierende sind durch unstrukturierte Daten schnell überfordert | Datensätze gezielt auswählen, kleine Ausschnitte nutzen, klar definierte Lernziele formulieren                                   |
@@ -296,6 +294,8 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 >  - Welche didaktischen, technischen oder organisatorischen Stolpersteine könnten auftreten?
 >
 >- Stellen Sie Ihre Überlegungen dem Plenum vor
+
+<div style="page-break-after: always;"></div>
 
 # Fazit & Take-Home Message
 
