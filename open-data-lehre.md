@@ -232,17 +232,17 @@ Open Data ist eine hervoragende Quelle für **forschungsbasiertes Lernen**.
 
 Open Data eignet sich gut zur Entwicklung eigener Fragestellungen in verschiedenen Komplexitätsgraden, die Studierende z. B. in Form von Hausarbeiten, Bachelor- oder Masterarbeiten bearbeiten können.
 
-Beispielhafte Lernziele:
+**Beispielhafte Lernziele:**
 
-- Lernende können für die Fragestellung relevante Datensätze aus verschiedenen Portalen in unterschiedlichen Formaten sinnvoll auswählen.
-- Lernende können Daten aus verschiedenen Datenquellen extrahieren, filtern und vergleichen, um einen eigenen Datensatz zu erstellen.
-- Lernende können komplexe evidenzbasierte Argumente entwickeln und präsentieren.
-- Lernende können komplexe Berichte auf der Grundlage von Datenanalysen in Form von Haus-, Forschungsarbeiten oder Postern präsentieren.
+- *Lernende können für die Fragestellung relevante Datensätze aus verschiedenen Portalen in unterschiedlichen Formaten sinnvoll auswählen.*
+- *Lernende können Daten aus verschiedenen Datenquellen extrahieren, filtern und vergleichen, um einen eigenen Datensatz zu erstellen.*
+- *Lernende können komplexe evidenzbasierte Argumente entwickeln und präsentieren.*
+- *Lernende können komplexe Berichte auf der Grundlage von Datenanalysen in Form von Haus-, Forschungsarbeiten oder Postern präsentieren.*
 
->Beispielsweise: 
+>**Beispielsweise:**
+> 
 > - Gibt es einen Zusammenhang zwischen dem, Durchschnittseinkommen der Bevölkerung und den durchschnittlichen Kronengrößen der Bäume im Stadtgebiet Kiel?
-
-> - Welchen Einfluß hatten der deutsch-französische Krieg die Schleswig-Holsteinische Erhebung Ende der des 20. Jahrhunderts auf die heutige Zusammensetzung der Bäume im Stadtgebiet Kiel?
+> - Welchen Einfluß hatten der deutsch-französische Krieg und die Schleswig-Holsteinische Erhebung Ende der des 20. Jahrhunderts auf das heutige Vorkommen der Baumarten im Stadtgebiet Kiel?
 
 ### Projektbasiert lernen 
 
@@ -250,15 +250,15 @@ Open Data ist ebenfalls eine hervorragende Quelle für **projektbasiertes Lernen
 
 Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Services oder Prototypen entwickeln. Dabei geht es weniger um die Beantwortung einer Forschungsfrage, sondern um die Gestaltung, Umsetzung und Reflexion eines Projekts – oft mit interdisziplinärem Bezug.
 
-Beispielhafte Lernziele:
+**Beispielhafte Lernziele:**
 
-- Lernende können geeignete offene Datensätze identifizieren und für ein Projektvorhaben auswählen.  
-- Lernende können Daten technisch aufbereiten und in Anwendungen oder Visualisierungen einbinden.  
-- Lernende können in Teams kollaborativ arbeiten und Arbeitspakete eigenständig koordinieren.  
-- Lernende können Projektergebnisse adressatengerecht dokumentieren und präsentieren (z. B. in Form von Prototypen, Apps, Dashboards oder Webkarten).  
-- Lernende können die gesellschaftliche Relevanz und die Nachhaltigkeit ihres Projekts reflektieren.  
+- *Lernende können geeignete offene Datensätze identifizieren und für ein Projektvorhaben auswählen.*  
+- *Lernende können Daten technisch aufbereiten und in Anwendungen oder Visualisierungen einbinden.*  
+- *Lernende können in Teams kollaborativ arbeiten und Arbeitspakete eigenständig koordinieren.*  
+- *Lernende können Projektergebnisse adressatengerecht dokumentieren und präsentieren (z. B. in Form von Prototypen, Apps, Dashboards oder Webkarten).*  
+- *Lernende können die gesellschaftliche Relevanz und die Nachhaltigkeit ihres Projekts reflektieren.*  
 
-> Beispielsweise: Entwicklung einer interaktiven Webkarte zur Geschichte der Kieler Stadtbäume.
+> **Beispielsweise**: Entwicklung einer interaktiven Webkarte zur Geschichte der Kieler Stadtbäume.
 
 ## Herausforderungen
       {{0-1}}
