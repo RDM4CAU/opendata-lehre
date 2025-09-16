@@ -261,16 +261,8 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 > **Beispielsweise**: Entwicklung einer interaktiven Webkarte zur Geschichte der Kieler Stadtbäume.
 
 ## Herausforderungen
-      {{0-1}}
-********************
+
 > **Welche Hindernisse oder Herausforderungen bei Einsatz von Open Data in der Lehre sehen Sie?**
-
-??[](https://zumpad.zum.de/p/OpenDataLehre_Herausforderungen)
-
-********************
-
-      {{1}}
-**********************
 
 | Bereich                    | Herausforderung                                                  | Mögliche Lösungsansätze                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -286,8 +278,6 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 |                            | fehlende Metadaten / magelnde Datenqualität                      | Qualitätskriterien gemeinsam mit Studierenden reflektieren                                                                       |
 |                            | Lizenz- und Nutzungsfragen unklar                                | Nutzung von etablierten Open-Data-Portalen (z. B. [Open-Data Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset) |
 |                            | Zeitaufwand für Lehrende bei Datenaufbereitung                   | Zusammenarbeit mit anderen Lehrenden und/oder Tutor:innen; Nutzung vorhandener OER-Materialien                                   |
-
-*********************
 
 # Übung
 
@@ -314,11 +304,6 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 >- bieten Gelegenheit zur Auseinandersetzung mit Recht & Ethik sowie den Prinzipen wissenschaftlicher Integrität
 >- Entscheidend: Didaktische Einbettung, nicht nur zum Selbstzweck
 
-<!-- style="float:left; width:10%;" -->
-![Piniata](https://openmoji.org/data/color/svg/1FA85.svg)
-
-\
-\
 <!-- style="font-size: 26px;" -->
 **Open Data kann ein echter Schatz für die Lehre sein!**
 
