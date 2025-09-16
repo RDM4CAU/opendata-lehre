@@ -275,8 +275,6 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 |                            | Schwierige curriculare Integration                               | Open-Data-Beispiele in bestehende Veranstaltungen (z. B. Statistik, Projektseminar) einbetten                                    |
 |                            | Fehlende Kenntnisse bei Studierenden                             | Vorkurse / Tutorien anbieten (z. B. Einführung in Datenanalyse-Tools)                                                            | 
 |                            | Fehlende Kenntnisse bei Lehrenden                                | Workshops & Communities of Practice zu Open Data und Data Literacy etablieren                                                    |
-|                            | Heterogene Vorkenntnisse in Gruppen                              | Differenzierte Aufgabenstellungen, Gruppenarbeiten, Tutorien                                                                     |
-|                            | Gefahr, dass Reflexion (Ethik, Bias, Politik) untergeht          | Reflexionsaufgaben und Diskussionen fest einplanen (z. B. Datenethik, gesellschaftliche Wirkung)                                 |
 | **Technik & Organisation** | fehlende/unterschiedliche technische Ausstattung                 | Nutzung virtueller PC-Labore, Z. B. [Cloudlab](https://cloudlab.rz.uni-kiel.de/)                                                 |
 |                            | Unterschiedliche Formate, fehlende Standards                     | Tools einsetzen, die viele Formate unterstützen (z. B. R, Python, OpenRefine)                                                    |
 |                            | fehlende Metadaten / magelnde Datenqualität                      | Qualitätskriterien gemeinsam mit Studierenden reflektieren                                                                       |
@@ -317,9 +315,7 @@ Studierende können mit realen offenen Datensätzen praxisnahe Anwendungen, Serv
 
 # Hilfreiche Ressourcen
 
-> **Diese Liste an hilfreichen Ressourcen darf gerne erweitert werden!**
-
-??[](https://zumpad.zum.de/p/OpenDataLehre_Ressourcen)
+> **Diese Liste an hilfreichen Ressourcen darf gerne erweitert werden!**: https://zumpad.zum.de/p/OpenDataLehre_Ressourcen
 
 
 # Quellen
